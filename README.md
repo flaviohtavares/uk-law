@@ -8,6 +8,14 @@ legislation published on legislation.gov.uk.
 > legislation.gov.uk. Texts can be out of date or contain conversion errors. Always check the
 > official text at [legislation.gov.uk](https://www.legislation.gov.uk) before relying on it.
 
+## Where do you live?
+
+[England](nations/england.md) · [Scotland](nations/scotland.md) · [Wales](nations/wales.md) ·
+[Northern Ireland](nations/northern-ireland.md)
+
+Each page lists the laws in force made for that nation. Laws of the UK Parliament can also
+extend there; every file says where it extends.
+
 ## Where things are
 
 - `uk-parliament/`: Acts and regulations of the UK Parliament
