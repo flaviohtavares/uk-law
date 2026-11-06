@@ -305,7 +305,7 @@ at the date of the diagnosed person’s death shall include a person who would h
 
 **55.**[^c-55de9c535217c08dfce09f0b731ea138] Any training grant payable under the New Deal 50 Plus Employment Credit Scheme pursuant to arrangements made under section 2(1) of the Employment and Training Act (Northern Ireland) 1950[^f00184] but only for a period of 52 weeks from the date of payment.
 
-**56.**[^c-9b7beb581ab9298e8ce5b68ddcd92962] The amount of a payment, other than a war pension within the meaning in section 25 of the Social Security Act 1989 f Ref="f00185"/>, to compensate for the fact that the relevant person, the relevant person’s partner, the relevant person’s deceased spouse or the relevant person’s partner’s deceased spouse –
+**56.**[^c-9b7beb581ab9298e8ce5b68ddcd92962] The amount of a payment, other than a war pension within the meaning in section 25 of the Social Security Act 1989, to compensate for the fact that the relevant person, the relevant person’s partner, the relevant person’s deceased spouse or the relevant person’s partner’s deceased spouse –
 
 - (a) was a slave labourer or a forced labourer;
 - (b) had suffered property loss or had suffered personal injury; or
