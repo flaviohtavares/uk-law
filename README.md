@@ -62,3 +62,13 @@ official version. [COVERAGE.md](COVERAGE.md) says what is here and what is missi
 © Crown and database right. Derived from content available under the
 [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
 from legislation.gov.uk. See [LICENSE.md](LICENSE.md).
+
+## Who maintains this
+
+Built and maintained by **[Tavlabs Ltd](https://www.tavlabs.uk/?utm_source=github&utm_medium=uk-law)**,
+a London software house for small and medium businesses. We build data pipelines like this one, and
+custom software for operations, from food safety to logistics. Need something similar?
+[contact@tavlabs.uk](mailto:contact@tavlabs.uk)
+
+This is an independent project. It is not affiliated with or endorsed by The National Archives,
+legislation.gov.uk or the UK Government.
